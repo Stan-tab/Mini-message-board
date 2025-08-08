@@ -1,12 +1,1 @@
-[
-	{
-		"user": "Stan",
-		"text": "Hello world!",
-		"date": "Today!"
-	},
-	{
-		"text": "Yo programmers!",
-		"user": "Charles",
-		"date": "March 3rd"
-	}
-]
+[{"user":"Stan","text":"Hello world!","date":"Today!"},{"text":"Yo programmers!","user":"Charles","date":"March 3rd"},{"user":"Cool usa","text":"helo nya","date":"2025-08-08T08:29:10"},{"user":"225 yo 64","text":"Im repper bro","date":"8:8:2025"},{"user":"asdawds","text":"asdasd","date":"8:8:2025"},{"user":"YoYoYo","text":"Hello frens","date":"8:8:2025"},{"user":"Nyasha","text":" Good day friends","date":"8:8:2025-1H:40m"}]
