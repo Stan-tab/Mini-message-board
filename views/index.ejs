@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    <title>Message app</title>
+</head>
+<body>
+    <div class="main">
+        <% messages.forEach(message => { %>
+            <%- include("components/message", {message}) %> 
+        <%}); %>
+        <a href="/new" class="tap"><button>Create message</button></a>
+    </div>
+</body>
+</html>
